@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-Front-End Developer | Bridging the Gap Between User Needs, Business Growth & Scalable Code
+Full-Stack Software Engineer | Bridging the Gap Between User Needs, Business Growth & Scalable Code
 
 I don’t just write code; I build digital experiences informed by a career dedicated to high-stakes advocacy and strategic growth. With a background spanning Critical Care Nursing, Enterprise Sales, and Operational Management, I bring a rare perspective to Front-End Development: I understand the patient, the customer, and the bottom line.
 
