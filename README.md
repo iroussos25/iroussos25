@@ -14,6 +14,6 @@ I architect digital solutions with a focus on **System Reliability** and **Clini
 ---
 
 ### 🚀 Featured Engineering Missions
-* **[Clinical Data Proxy](https://github.com/iroussos25):** Secure Node.js middleware for HL7 FHIR R4 API aggregation and custom schema validation.
-* **[Skinstric AI Interface](https://github.com/iroussos25):** Real-time 3D biometric tracking (MediaPipe) to gatekeep high-fidelity clinical data ingestion.
-* **[AI Orchestration Engine](https://github.com/iroussos25):** Modular LLM-integration layer designed for generative asset creation and deterministic parsing.
+* **[Clinical Data Proxy](https://github.com/iroussos25/clinical-proxy-server):** Secure Node.js middleware for HL7 FHIR R4 API aggregation and custom schema validation.
+* **[Skinstric AI Interface](https://github.com/iroussos25/skinstric-project):** Real-time 3D biometric tracking (MediaPipe) to gatekeep high-fidelity clinical data ingestion.
+* **[AI Orchestration Engine](https://github.com/iroussos25/3js):** Modular LLM-integration layer designed for generative asset creation and deterministic parsing.
