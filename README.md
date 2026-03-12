@@ -1,19 +1,37 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Giannis Roussos
 
-## Full-Stack Software Engineer | AI Orchestration & HealthTech
-**Building resilient, production-grade systems where data integrity and uptime are non-negotiable.**
+## Full-Stack Engineer | Clinical Intelligence & Data Orchestration
+**Architecting grounded AI systems where evidence and explainability are the core requirements.**
 
-I architect digital solutions with a focus on **System Reliability** and **Clinical Interoperability**. My approach to engineering is shaped by a career in high-concurrency, high-stakes environments—spanning **Critical Care (ICU/ER)** and **Special Forces Leadership**. I don't just write code; I build tools that bridge the gap between complex human workflows and scalable technology.
+I build production-grade software with a focus on **RAG (Retrieval-Augmented Generation)**, **Clinical Data Synthesis**, and **Interoperability**. My engineering philosophy is shaped by a decade in high-stakes environments—from **Special Forces Leadership** to **Critical Care (ICU/ER)**. I specialize in building "Transparent AI" that eliminates the black-box problem through traceable evidence and structured data grounding.
 
-### 🛡️ Why I’m a "Safe" & High-Impact Hire:
+### 🛡️ The "Zero-Fail" Engineering Advantage:
 
-* **System-Critical Reliability:** My background in the ICU and Special Forces means I treat "production-grade" as a baseline requirement. I specialize in building deterministic systems that prioritize security and data integrity.
-* **Domain Authority (HealthTech):** Deep hands-on experience with EHR workflows (Epic/Cerner). I translate **HL7 FHIR** requirements into functional code that understands the clinical environment.
-* **Strategic Growth Mindset:** With experience in **Sales Management** and **Project Lifecycles**, I speak the language of business stakeholders and prioritize technical features that drive actual ROI.
+* **Explainable AI (XAI):** Specialist in **Chain-of-Thought (CoT)** architectures. I build interfaces that expose the model’s internal reasoning, allowing clinicians to audit AI logic against raw patient data in real-time.
+* **Grounded RAG Systems:** Expert in building **Vector-Search** pipelines using **Supabase pgvector**. I prioritize "Source-of-Truth" retrieval, ensuring every AI claim is backed by a specific document chunk or peer-reviewed citation.
+* **HealthTech Interoperability:** Deep hands-on experience with **HL7 FHIR R4** and EHR workflows. I translate unstructured clinical notes and structured FHIR resources into deterministic, actionable code.
 
 ---
 
 ### 🚀 Featured Engineering Missions
-* **[Clinical Data Proxy](https://github.com/iroussos25/clinical-proxy-server):** Secure Node.js middleware for HL7 FHIR R4 API aggregation and custom schema validation.
-* **[Skinstric AI Interface](https://github.com/iroussos25/skinstric-project):** Real-time 3D biometric tracking (MediaPipe) to gatekeep high-fidelity clinical data ingestion.
-* **[AI Orchestration Engine](https://github.com/iroussos25/3js):** Modular LLM-integration layer designed for generative asset creation and deterministic parsing.
+
+* **[AI Clinical Context Agent](https://github.com/iroussos25/ai-clinical-context-agent):** My flagship Capstone. A professional-grade workbench for clinical data analysis. Features RAG-grounded reasoning, live PubMed literature integration, and a FHIR R4 data explorer.
+* **[Clinical Data Proxy](https://github.com/iroussos25/clinical-proxy-server):** Secure Node.js middleware for HL7 FHIR R4 API aggregation and custom Zod-based schema validation.
+* **[Skinstric AI Interface](https://github.com/iroussos25/skinstric-project):** Real-time 3D biometric tracking (MediaPipe) used to gatekeep high-fidelity clinical data ingestion through an interactive UI.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+* **Languages & Frameworks:** Next.js 15 (App Router), TypeScript, React, Node.js, Python.
+* **AI & Data:** Vercel AI SDK, Supabase (pgvector), Vector Embeddings, RAG.
+* **Standards:** HL7 FHIR R4, PubMed/NCBI eUtils API, HIPAA-minded architecture.
+* **Infrastructure:** Vercel, Upstash (Redis), GitHub Actions (CI/CD), Vitest/Playwright.
+
+---
+
+### 📈 The Intersection of Care & Code
+With a background as a **Special Forces Veteran** and **ICU Registered Nurse**, I operate at the intersection of technical execution and clinical safety. I am a US Citizen (NC-based) available for Full-Time Engineering roles or strategic technical partnerships through my US-based LLC.
+
+---
+
+[Contact Me](https://your-portfolio-link.com) | [LinkedIn](https://linkedin.com/in/your-profile)
