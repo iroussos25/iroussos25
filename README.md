@@ -1,37 +1,38 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Giannis Roussos
+# Hi, I'm Giannis Roussos 👋
+### Full-Stack Software Engineer | Next.js, TypeScript, & HealthTech Implementation
 
-## Full-Stack Engineer | Clinical Intelligence & Data Orchestration
-**Architecting grounded AI systems where evidence and explainability are the core requirements.**
-
-I build production-grade software with a focus on **RAG (Retrieval-Augmented Generation)**, **Clinical Data Synthesis**, and **Interoperability**. My engineering philosophy is shaped by a decade in high-stakes environments—from **Special Forces Leadership** to **Critical Care (ICU/ER)**. I specialize in building "Transparent AI" that eliminates the black-box problem through traceable evidence and structured data grounding.
-
-### 🛡️ The "Zero-Fail" Engineering Advantage:
-
-* **Explainable AI (XAI):** Specialist in **Chain-of-Thought (CoT)** architectures. I build interfaces that expose the model’s internal reasoning, allowing clinicians to audit AI logic against raw patient data in real-time.
-* **Grounded RAG Systems:** Expert in building **Vector-Search** pipelines using **Supabase pgvector**. I prioritize "Source-of-Truth" retrieval, ensuring every AI claim is backed by a specific document chunk or peer-reviewed citation.
-* **HealthTech Interoperability:** Deep hands-on experience with **HL7 FHIR R4** and EHR workflows. I translate unstructured clinical notes and structured FHIR resources into deterministic, actionable code.
+> **Building reliable, clinical-grade applications with a "zero-fail" mindset.**
 
 ---
 
-### 🚀 Featured Engineering Missions
+### 👨‍💻 About Me
+I am a **Full-Stack Developer** specializing in Next.js, TypeScript, and AI-driven data systems. My approach to engineering is shaped by a career in high-stakes, mission-critical environments—spanning **Special Forces Leadership** and **Critical Care (ICU/ER) Nursing**.
 
-* **[AI Clinical Context Agent](https://github.com/iroussos25/ai-clinical-context-agent):** My flagship Capstone. A professional-grade workbench for clinical data analysis. Features RAG-grounded reasoning, live PubMed literature integration, and a FHIR R4 data explorer.
-* **[Clinical Data Proxy](https://github.com/iroussos25/clinical-proxy-server):** Secure Node.js middleware for HL7 FHIR R4 API aggregation and custom Zod-based schema validation.
-* **[Skinstric AI Interface](https://github.com/iroussos25/skinstric-project):** Real-time 3D biometric tracking (MediaPipe) used to gatekeep high-fidelity clinical data ingestion through an interactive UI.
-
----
-
-### 🛠️ Tech Stack & Tooling
-* **Languages & Frameworks:** Next.js 15 (App Router), TypeScript, React, Node.js, Python.
-* **AI & Data:** Vercel AI SDK, Supabase (pgvector), Vector Embeddings, RAG.
-* **Standards:** HL7 FHIR R4, PubMed/NCBI eUtils API, HIPAA-minded architecture.
-* **Infrastructure:** Vercel, Upstash (Redis), GitHub Actions (CI/CD), Vitest/Playwright.
+I bridge the gap between complex clinical workflows and production-ready code. I don't just build features; I build tools that prioritize uptime, security, and data integrity.
 
 ---
 
-### 📈 The Intersection of Care & Code
-With a background as a **Special Forces Veteran** and **ICU Registered Nurse**, I operate at the intersection of technical execution and clinical safety. I am a US Citizen (NC-based) available for Full-Time Engineering roles or strategic technical partnerships through my US-based LLC.
+### 🛡️ Why I am a High-Impact Hire
+
+* **Domain Authority (HealthTech):** I speak the language of the provider. I have deep hands-on experience with EHR workflows and **HL7 FHIR R4**, reducing the "translation lag" between clinical needs and technical execution.
+* **Mission-Critical Reliability:** My background in the ICU means I treat "Production-Ready" as a baseline requirement. I specialize in building deterministic, type-safe systems that work when it matters most.
+* **Rapid Implementation:** Expert in the **Next.js 15 (App Router)** ecosystem, building responsive UIs and secure API architectures with a focus on **RAG (Retrieval-Augmented Generation)** and AI integration.
 
 ---
 
-[Contact Me](https://your-portfolio-link.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js 15, TypeScript, React, Tailwind CSS |
+| **Backend/DB** | Node.js, Supabase, PostgreSQL (pgvector), Prisma |
+| **AI/ML** | Vercel AI SDK, Gemini 2.0, RAG Architecture, OpenAI API |
+| **HealthTech** | FHIR R4, HAPI FHIR, Clinical Workflow Optimization |
+| **DevOps** | Vercel, Git/GitHub, CI/CD Pipelines |
+
+---
+
+### 📈 Current Mission
+I am currently finalizing a **Clinical Context Agent** that uses Explainable AI (XAI) to provide clinicians with grounded, cited medical reasoning from unstructured notes and FHIR data.
+
+[**View My Portfolio**](https://your-portfolio-url.com) | [**Connect on LinkedIn**](https://linkedin.com/in/your-profile)
