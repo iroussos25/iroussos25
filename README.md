@@ -1,38 +1,41 @@
 # Hi, I'm Giannis Roussos 👋
-### Full-Stack Software Engineer | Next.js, TypeScript, & HealthTech Implementation
+### AI Implementation Engineer | HealthTech & Mission-Critical Systems
 
-> **Building reliable, clinical-grade applications with a "zero-fail" mindset.**
-
----
-
-### 👨‍💻 About Me
-I am a **Full-Stack Developer** specializing in Next.js, TypeScript, and AI-driven data systems. My approach to engineering is shaped by a career in high-stakes, mission-critical environments—spanning **Special Forces Leadership** and **Critical Care (ICU/ER) Nursing**.
-
-I bridge the gap between complex clinical workflows and production-ready code. I don't just build features; I build tools that prioritize uptime, security, and data integrity.
+**"From Healthcare to HealthTech: Building production-grade AI systems with ICU-level discipline."**
 
 ---
 
-### 🛡️ Why I am a High-Impact Hire
-
-* **Domain Authority (HealthTech):** I speak the language of the provider. I have deep hands-on experience with EHR workflows and **HL7 FHIR R4**, reducing the "translation lag" between clinical needs and technical execution.
-* **Mission-Critical Reliability:** My background in the ICU means I treat "Production-Ready" as a baseline requirement. I specialize in building deterministic, type-safe systems that work when it matters most.
-* **Rapid Implementation:** Expert in the **Next.js 15 (App Router)** ecosystem, building responsive UIs and secure API architectures with a focus on **RAG (Retrieval-Augmented Generation)** and AI integration.
+### 🚀 The 90-Day Sprint: 30 Repositories
+I don't just use AI; I orchestrate it. In the last 90 days, I transitioned from a clinical professional to a technical builder by shipping over 30 projects, culminating in a full-scale **Clinical Decision Support Platform.** I specialize in high-velocity implementation, turning complex clinical requirements into "zero-fail" code.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🔬 Featured Project: AI Clinical Context Agent
+A full-stack clinical intelligence platform built to simulate hospital-grade decision support.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | Next.js 15, TypeScript, React, Tailwind CSS |
-| **Backend/DB** | Node.js, Supabase, PostgreSQL (pgvector), Prisma |
-| **AI/ML** | Vercel AI SDK, Gemini 2.0, RAG Architecture, OpenAI API |
-| **HealthTech** | FHIR R4, HAPI FHIR, Clinical Workflow Optimization |
-| **DevOps** | Vercel, Git/GitHub, CI/CD Pipelines |
+**[Live Demo](https://ai-clinical-context-agent.vercel.app/) | [Architecture Deep Dive](./docs/RECRUITER_ARCHITECTURE_AND_TRADEOFFS.md)**
+
+#### 🛡️ Engineering Highlights:
+* **Resilient AI Orchestration:** Implemented a **Model Fallback Chain** (Gemini 2.5 → Flash Lite → Gemma 3) to ensure 99.9% uptime despite API quotas or latency issues.
+* **Clinical RAG Pipeline:** Developed a semantic search engine using **Supabase pgvector** and **768-dim embeddings** with custom chunking logic for unstructured medical notes.
+* **Interoperability:** Built a **FHIR R4 Explorer** that pulls live data from HAPI FHIR servers directly into the AI workbench.
+* **Security & Ops:** Integrated **Zod-validated request guarding**, **Upstash Redis rate-limiting**, and a structured **Audit Logging** system for HIPAA-aware traceability.
+* **Medical Grounding:** Live **PubMed API** integration to cross-reference AI analysis with peer-reviewed literature.
 
 ---
 
-### 📈 Current Mission
-I am currently finalizing a **Clinical Context Agent** that uses Explainable AI (XAI) to provide clinicians with grounded, cited medical reasoning from unstructured notes and FHIR data.
+### 🛠️ The Stack
+* **Core:** Next.js 15/16 (App Router), TypeScript, React 19.
+* **AI/Data:** Vercel AI SDK, Google Gemini/Gemma, Supabase (pgvector).
+* **Infrastructure:** Redis (Upstash), GitHub Actions (CI/CD), Vitest (Integration Testing).
+* **Domain:** HL7 FHIR R4, PubMed eUtils, Clinical Workflow Automation.
 
-[**View My Portfolio**](https://your-portfolio-url.com) | [**Connect on LinkedIn**](https://linkedin.com/in/your-profile)
+---
+
+### 🏥 Why This Matters
+As a former **Special Forces Leader** and **ICU Nurse**, I know that in clinical environments, "it mostly works" isn't good enough. I build software that prioritizes:
+1.  **Observability:** Real-time metrics and latency benchmarking.
+2.  **Explainability:** "Show-your-work" panels with retrieved evidence chunks.
+3.  **Reliability:** Fail-fast environment validation and robust error handling.
+
+[**LinkedIn**](https://linkedin.com/in/giannisr) | [**Portfolio**](https://giannisroussos.com) | **Status: US Citizen | NC-Based | Available for HealthTech Engineering Roles**
