@@ -1,41 +1,58 @@
 # Hi, I'm Giannis Roussos 👋
-### AI Implementation Engineer | HealthTech & Mission-Critical Systems
 
-**"From Healthcare to HealthTech: Building production-grade AI systems with ICU-level discipline."**
+### Full-Stack Software Engineer | AI Orchestration & Complex Systems
 
----
-
-### 🚀 The 90-Day Sprint: 30 Repositories
-I don't just use AI; I orchestrate it. In the last 90 days, I transitioned from a clinical professional to a technical builder by shipping over 30 projects, culminating in a full-scale **Clinical Decision Support Platform.** I specialize in high-velocity implementation, turning complex clinical requirements into "zero-fail" code.
+Former ICU nurse and Special Forces platoon leader, now building software where reliability is not optional.
 
 ---
 
-### 🔬 Featured Project: AI Clinical Context Agent
-A full-stack clinical intelligence platform built to simulate hospital-grade decision support.
+### The 90-Day Sprint
 
-**[Live Demo](https://ai-clinical-context-agent.vercel.app/) | [Architecture Deep Dive](./docs/RECRUITER_ARCHITECTURE_AND_TRADEOFFS.md)**
-
-#### 🛡️ Engineering Highlights:
-* **Resilient AI Orchestration:** Implemented a **Model Fallback Chain** (Gemini 2.5 → Flash Lite → Gemma 3) to ensure 99.9% uptime despite API quotas or latency issues.
-* **Clinical RAG Pipeline:** Developed a semantic search engine using **Supabase pgvector** and **768-dim embeddings** with custom chunking logic for unstructured medical notes.
-* **Interoperability:** Built a **FHIR R4 Explorer** that pulls live data from HAPI FHIR servers directly into the AI workbench.
-* **Security & Ops:** Integrated **Zod-validated request guarding**, **Upstash Redis rate-limiting**, and a structured **Audit Logging** system for HIPAA-aware traceability.
-* **Medical Grounding:** Live **PubMed API** integration to cross-reference AI analysis with peer-reviewed literature.
+In the last 90 days I shipped 30+ projects, taught myself backend and AI orchestration beyond my bootcamp curriculum, and built a full clinical decision support platform from scratch - then rebuilt it in Ruby on Rails over a weekend to compare architectures. I learn fast because I spent a decade in environments where slow learning has real consequences.
 
 ---
 
-### 🛠️ The Stack
-* **Core:** Next.js 15/16 (App Router), TypeScript, React 19.
-* **AI/Data:** Vercel AI SDK, Google Gemini/Gemma, Supabase (pgvector).
-* **Infrastructure:** Redis (Upstash), GitHub Actions (CI/CD), Vitest (Integration Testing).
-* **Domain:** HL7 FHIR R4, PubMed eUtils, Clinical Workflow Automation.
+### Featured: Aegis AI Clinical Decision Support
+
+A full-stack clinical intelligence platform with multi-model AI orchestration, RAG-powered evidence retrieval, and real-time FHIR data integration.
+
+**[Next.js Demo](https://aegis-ai-cds.vercel.app/) | [Rails Demo](https://ai-clin-cds-rails.fly.dev/) | [GitHub Monorepo](https://github.com/iroussos25/aegis-project)**
+
+- **AI Orchestration:** Model fallback chain (Gemini 2.5 > Flash Lite > Gemma 3) with automatic 429/503 recovery for continuous uptime
+- **RAG Pipeline:** Semantic search using Supabase pgvector with 768-dim embeddings and custom chunking for clinical documents
+- **FHIR Integration:** Live HL7 FHIR R4 data explorer pulling from HAPI FHIR servers
+- **Security:** Zod schema validation, Upstash Redis rate limiting, structured audit logging
+- **Evidence Grounding:** PubMed API integration to cross-reference AI output with peer-reviewed literature
 
 ---
 
-### 🏥 Why This Matters
-As a former **Special Forces Leader** and **ICU Nurse**, I know that in clinical environments, "it mostly works" isn't good enough. I build software that prioritizes:
-1.  **Observability:** Real-time metrics and latency benchmarking.
-2.  **Explainability:** "Show-your-work" panels with retrieved evidence chunks.
-3.  **Reliability:** Fail-fast environment validation and robust error handling.
+### Other Projects
 
-[**LinkedIn**](https://linkedin.com/in/giannisr) | [**Portfolio**](https://giannisroussos.com) | **Status: US Citizen | NC-Based | Available for HealthTech Engineering Roles**
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [FHIR Pulse](https://fhir-dashboard-five.vercel.app/) | Clinical interoperability dashboard with real-time vitals via Express/AWS proxy | Next.js, Node.js, AWS, HL7 FHIR |
+| [Skinstric](https://skinstric-project-mu.vercel.app/) | AI biometric capture with MediaPipe BlazeFace and 36-segment face positioning *(internship)* | React, Next.js, Firebase |
+| [API Security Linter](https://github.com/iroussos25/prudential-linter) | Static analysis tool enforcing OpenAPI 3.0 security rules, integrated as CI/CD gate | Python, GitHub Actions |
+| [Summarist](https://yiannis-summarist.vercel.app/) | Full-stack SaaS audiobook platform with Stripe payments *(internship)* | Next.js, Firebase, Stripe |
+| [3D Storefront](https://3js-swart-theta.vercel.app/) | Interactive 3D product visualization with custom shaders | Three.js, WebGL |
+
+---
+
+### Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Three.js
+**Backend:** Node.js, Express, Ruby on Rails, PostgreSQL, Firebase
+**AI & Data:** Vercel AI SDK, Gemini/Gemma, Supabase pgvector, PubMed API
+**Infrastructure:** AWS (App Runner, EC2, S3), Redis, GitHub Actions, Fly.io
+**Domain:** HL7 FHIR R4, HIPAA-compliant architecture, clinical workflow systems
+
+---
+
+### Why Healthcare + Engineering
+
+As an ICU nurse I watched bad software create alert fatigue that put patients at risk. As a Special Forces leader I learned that systems need to work under pressure, not just under test conditions. I build software with that same standard - if it cannot handle the 3AM edge case, it is not ready to ship.
+
+---
+
+**[Portfolio](https://giannisroussos.com) | [LinkedIn](https://linkedin.com/in/giannisr) | grcodes@outlook.com**
+**Dual US/Greek citizen | US-based LLC | Available for remote roles immediately**
